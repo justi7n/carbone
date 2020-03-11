@@ -1,3 +1,8 @@
+<p>
+  This is a fork of carbone v1.2.1. The only changes were made in <code>formatters/_locale.js</code>, where a new locale <code>de-ch</code> was added.
+  Original package: <a href="https://www.npmjs.com/package/carbone">carbone</a>
+</p>
+
 <p align="center">
   <a href="https://carbone.io/" target="_blank">
     <img alt="CarboneJS" width="100" src="https://carbone.io/img/favicon.png">
@@ -38,6 +43,7 @@
 
 <!-- MarkdownTOC -->
 
+- [Table of content](#table-of-content)
 - [Features](#features)
 - [How it works?](#how-it-works)
 - [Minimum Requirements](#minimum-requirements)
@@ -45,13 +51,19 @@
 - [Getting started](#getting-started)
   - [Basic sample](#basic-sample)
   - [PDF generation, document conversion](#pdf-generation-document-conversion)
+      - [1 - install LibreOffice](#1---install-libreoffice)
+        - [on OSX](#on-osx)
+        - [on Ubuntu Server & Ubuntu desktop](#on-ubuntu-server--ubuntu-desktop)
+      - [2 - generate PDF](#2---generate-pdf)
 - [More examples](#more-examples)
+      - [Nested repetition in a docx document and spreadsheet](#nested-repetition-in-a-docx-document-and-spreadsheet)
 - [API Reference](#api-reference)
 - [Command line tools](#command-line-tools)
+- [Issues](#issues)
+- [Roadmap](#roadmap)
 - [Performance](#performance)
 - [Licenses and editions](#licenses-and-editions)
 - [Philosophy](#philosophy)
-- [Roadmap](#roadmap)
 - [Contributors](#contributors)
 
 <!-- /MarkdownTOC -->

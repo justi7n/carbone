@@ -1,7 +1,7 @@
 {
-  "name": "carbone",
+  "name": "carbone-wira",
   "description": "Fast, Simple and Powerful report generator. Injects JSON and produces PDF, DOCX, XLSX, ODT, PPTX, ODS, ...!",
-  "version": "1.2.1",
+  "version": "1.2.3",
   "bin": "bin/carbone",
   "main": "./lib",
   "author": "David Grelaud",
